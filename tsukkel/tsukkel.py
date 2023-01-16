@@ -138,4 +138,4 @@ else:
 
 
 #            print("paaris numbrid"), paaris
-#            print("paaritu numbrid") paaritu
+#            print("paaritu numbrid") paarituf
